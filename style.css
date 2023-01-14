@@ -40,3 +40,9 @@ h2{
   border-style: double;
   border-color: black;
 }
+footer
+{
+background-color: black;
+color: white;
+padding : 5px 320px;
+}
