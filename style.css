@@ -1,0 +1,42 @@
+html {
+  
+}
+
+body {
+  min-height: 100vh;
+  width: 800px;
+  margin: 0 auto;
+  background-color: cornsilk;
+ }
+
+img {
+  
+  height: 400px;
+  width: 400px;
+  margin-left: 200px;
+}
+#main1{
+  background-color: rgb(252, 252, 82);
+  border: 2px solid rgb(218, 61, 182);
+  padding: 10px;
+  color:azure
+  font: bolder,italic;
+  border-style: double;
+  font-style: italic;
+}
+#main{
+  background-image: url(https://th.bing.com/th/id/R.d226ab26cb63f9e9878bf92b78e12fec?rik=5nVC%2bYTkCwY7Lg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2ftKN1a7Z.jpg&ehk=oPXB2RaM%2fdbE4xBjB3q5K3k1wHeSHELtJE2IQ391%2fyI%3d&risl=&pid=ImgRaw&r=0);
+  color:azure;
+  border-color: black;
+  border-style: double;
+  font-style: italic;
+}
+
+h2{
+  /* background-color: chartreuse; */
+  background-image: url(https://th.bing.com/th/id/OIP.e1uQePEsKn3QaSOnoYdN1AHaEK?pid=ImgDet&rs=1);
+  color:azure;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-style: double;
+  border-color: black;
+}
